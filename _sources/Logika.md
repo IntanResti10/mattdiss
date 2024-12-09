@@ -1,5 +1,5 @@
 ---
-title: Logika
+title: NEGASI adalah penyangkalan ata
 
 ---
 
